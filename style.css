@@ -59,6 +59,7 @@ header {
 
 .card img{
   width: 200px;
+  border-radius: 20px;
 }
 
 .game-section {
@@ -253,4 +254,8 @@ footer {
 
 .pat {
   color: #c5991e;
+}
+
+.logo {
+  border-radius: 25px;
 }
