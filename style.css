@@ -10,7 +10,7 @@ header {
   text-align: center;
   padding: 2rem;
   background: linear-gradient(to bottom, #604cf5, #0b0f2a);
-  color: #00ffff;
+  color: #a461ca;
 }
 
 .letra {
@@ -98,10 +98,10 @@ header {
 .controls button {
     margin: 0.5rem;
     padding: 0.5rem 1rem;
-    background: #00ffff;
+    background: #632f81;
     border: none;
     border-radius: 10px;
-    color: black;
+    color: rgb(255, 255, 255);
     font-weight: bold;
     cursor: pointer;
     transition: background 0.3s ease;
